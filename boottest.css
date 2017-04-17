@@ -1,0 +1,50 @@
+.text {
+	border-left: #BDC3C7 solid 5px;
+	border-right: #BDC3C7 solid 5px;
+	color: green;
+	padding: 5px;
+	width: 76%;
+	margin-left: 12%;
+	font-family: "Asar";
+	font-size: 18px;
+}
+.cute {
+	width: 260px;
+	height: 200px;
+	float: left;
+	margin: 0 10px 10px 10px;
+}
+.hr {
+	border-top: blue dashed 1px;
+}
+
+.corgip {
+	color: brown;
+	font-family: "Josefin Sans";
+	font-size: 20px;
+}
+.voteforcorgi {
+	color: brown;
+}
+#combreak {
+	width: 26%;
+	margin-left: 36%;
+	margin-top: 100px;
+	color: blue;
+	font-weight: bold;
+	border: black dashed 2px;
+	padding: 5px;
+	text-align: center;
+}
+#buttonattop {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.topt {
+	margin-left: 10px;
+	font-family: "Josefin Sans";
+}
+body {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/0c/ce/a8/0ccea833191ae8e84402f3f46e98c3e0--beach-wallpaper-hd-wallpaper.jpg);
+	background-size: cover;
+}
